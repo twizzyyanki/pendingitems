@@ -18,4 +18,8 @@ Once it's started, open
 ### `http://localhost:8080` 
 on your browser
 
+### Requirements
+- Java 11 - needed to compile all the code
+- Maven 3.5 and above
+
 
