@@ -1,0 +1,34 @@
+.App {
+
+}
+
+h2 {
+  color: white;
+}
+
+.search {
+  padding-top: 20px;
+}
+
+.add-item {
+  align-items: flex-start;
+  padding-bottom: 10px;
+}
+
+.list-items {
+  padding-top: 10px;
+}
+
+.ant-layout-content {
+  background-color: white !important;
+}
+
+.center {
+  margin: 0 auto;
+  align-content: center;
+}
+
+.todoListWrapper {
+  margin: 0 auto;
+  width: 600px;
+}
